@@ -1,0 +1,23 @@
+.center{
+    text-align: center;
+    font-size: 3rem;
+}
+
+.images-size{
+    width: 50%;
+    margin: 0 400px;
+}
+.para{
+    line-height: 2rem;
+    font-size: 2rem;
+    text-align: center;
+}
+.box{
+    border: 2px solid black;
+    width: 15%;
+    padding: 2rem;
+    background-color: yellow;
+    font-size: 1.2rem;
+    margin: 0 500px;
+    margin-top: 50px;
+}
